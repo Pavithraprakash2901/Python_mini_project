@@ -39,7 +39,7 @@ else:
 
 print("\n")             
 print( " :) Hey " + name + " :> your's score is : " +str(score))        
-print("You got  " + str((score/3)*100)  +"  of the questions correct!!" )
+print("You got  " + str((score/3)*100)  +" %.   of the questions correct!!" )
 
 
 
